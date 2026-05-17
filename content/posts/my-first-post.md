@@ -13,4 +13,3 @@ I love the nostalgic feel of old Japanese websites while still having modern fea
 
 Write your content here using normal Markdown formatting!
 ```
-I have never posted a post before.
