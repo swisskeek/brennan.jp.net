@@ -1,4 +1,5 @@
-+++ title = "My First Post"
++++ 
+title = "My First Post"
 date = 2026-02-07T10:00:00-07:00
 categories = \["Life"]
 tags = \["welcome", "first-post"]
