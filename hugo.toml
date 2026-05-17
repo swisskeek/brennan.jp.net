@@ -1,6 +1,6 @@
 baseURL = "https://brennan.jp.net/"
 languageCode = "en-us"
-title = "brennan.jp.net"
+title = "keek.net"
 [pagination]
   pagerSize = 15
 summaryLength = 70
